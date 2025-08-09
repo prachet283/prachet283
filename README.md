@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Profile views](https://komarev.com/ghpvc/?username=prachet283&label=Profile%20views&color=0e75b6&style=flat)
 <div align="center">
   <!-- Header / Avatar -->
   <img src="https://github.com/prachet283.png" alt="avatar" width="150" style="border-radius:50%" />
