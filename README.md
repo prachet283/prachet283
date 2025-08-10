@@ -16,21 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=prachet283&label=Profile%20views&color=0e75b6&style=flat)
-<div align="center">
-  <!-- Header / Avatar -->
-  <img src="https://github.com/prachet283.png" alt="avatar" width="150" style="border-radius:50%" />
-</div>
 
-<h1 align="center">Hi, I'm **Prachet Pandav** 👋</h1>
-<p align="center">Data Science enthusiast | ML Engineer | Full Stack Dev</p>
+
+<h1>Hi, <b>I'm Prachet Pandav</b> 👋</h1>
+<p> An AI enthusiast | ML Engineer | Full Stack Dev</p>
 
 ---
 
-##  Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/YOUR_TWITTER)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&style=flat-square)](https://leetcode.com/YOUR_LEETCODE)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachetpandav283@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachet-pandav-49b781225/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/prachet283)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prachetpandav283/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pandav_prachet)
 
 ---
 
