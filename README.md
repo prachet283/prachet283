@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pandav_prachet)
 
 ---
+##  Tech Stack
+
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -87,7 +89,7 @@ Here are some ideas to get you started:
 
 
 -----------
-##  Tech Stack
+
 
 ![My Skills](https://skillicons.dev/icons?i=python,streamlit,ml,scikit-learn,pandas,numpy,matplotlib,seaborn,github&theme=light)
 
