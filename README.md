@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 💻 **Machine Learning & Full Stack Developer**  
 🚀 Passionate about **ML, DL, NLP, and Generative AI**  
 📍 From Mumbai, India 
+
 ---
 
 ## Connect with Me
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pandav_prachet)
 
 ---
+
 ##  Tech Stack
 
 ### Programming Languages
@@ -102,29 +104,9 @@ Here are some ideas to get you started:
 
 ---
 
-##  Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **Multiple Disease Prediction System WebApp** | A comprehensive Streamlit app predicting Diabetes, Heart Disease, Parkinson’s, and Breast Cancer. :contentReference[oaicite:0]{index=0} |
-| **ML Classification Projects WebApp** | Features five classification tools: Spam Mail, Titanic Survival, Wine Quality, Loan Status, and Credit Card Fraud Detection. :contentReference[oaicite:1]{index=1} |
-| **ML Regression Projects WebApp** | A suite of six regression models for predicting: House Price, Car Price, Gold Price, Medical Insurance Cost, Big Mart Sales, and Calories Burnt. :contentReference[oaicite:2]{index=2} |
-| **Spam Mail Prediction WebApp** | Detects spam mails using TF-IDF + Logistic Regression with ~96.6% accuracy. :contentReference[oaicite:3]{index=3} |
-| **Gold Price Prediction WebApp** | Forecasts gold price trends using Random Forest (R² ≈ 0.989). :contentReference[oaicite:4]{index=4} |
-| **Big Mart Sales Prediction WebApp** | Predicts sales for Big Mart outlets to optimize operations. :contentReference[oaicite:5]{index=5} |
-
----
-
-<!-- Optional: Repository Activity or Contributions Calendar -->
-
----
-
 ###  Let’s Collaborate!
 
 I’m always open to feedback, collaboration, or brainstorming exciting new ML apps.  
 Feel free to explore my repos, follow the journey, or reach out anytime!
 
----
 
-*Crafted with heart, served with code.* 
-::contentReference[oaicite:6]{index=6}
