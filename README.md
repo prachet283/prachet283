@@ -95,10 +95,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachet283&show_icons=true&theme=radical" alt="Prachet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachet283&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachet283&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachet283&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
