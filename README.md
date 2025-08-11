@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 ![Profile views](https://komarev.com/ghpvc/?username=prachet283&label=Profile%20views&color=0e75b6&style=flat)
 
 
-<h1>Hi, <b>I'm Prachet Pandav</b> 👋</h1>
-<p> An AI enthusiast | ML Engineer | Full Stack Dev</p>
+<!--<h1>Hi, <b>I'm Prachet Pandav</b> 👋</h1>
+<p> An AI enthusiast | ML Engineer | Full Stack Dev</p> -->
+# Hi there, I'm Prachet Pandav 👋
 
+💻 **Machine Learning & Full Stack Developer**  
+🚀 Passionate about **ML, DL, NLP, and Generative AI**  
+📍 From Mumbai, India 
 ---
 
 ## Connect with Me
@@ -85,19 +89,17 @@ Here are some ideas to get you started:
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-
-
------------
-
-
-![My Skills](https://skillicons.dev/icons?i=python,streamlit,ml,scikit-learn,pandas,numpy,matplotlib,seaborn,github&theme=light)
-
 ---
 
-##  My GitHub Stats
+## 📊 My GitHub Stats
 
-![Prachet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachet283&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachet283&show_icons=true&theme=radical" alt="Prachet's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachet283&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachet283&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
