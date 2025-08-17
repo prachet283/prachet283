@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 ###  Let’s Collaborate!
 
-I’m always open to feedback, collaboration, or brainstorming exciting new ML apps.  
+I’m always open to feedback, collaboration, or brainstorming exciting new ML AI apps.  
 Feel free to explore my repos, follow the journey, or reach out anytime!
 
 
